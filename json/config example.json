@@ -1,0 +1,10 @@
+{
+    "discord_token": "DISCORD BOT TOKEN",
+    "application_id": APPLICATION ID,
+    "prefix": "!",
+    "bmtoken": "BM API TOKEN",
+    "server": SERVER ID,
+    "thumbnail": "THUMBNAIL URL",
+    "channel": DISCORD CHANNEL ID,
+    "color": "white"
+}

@@ -1,0 +1,4 @@
+discord==2.1.0
+discord.py==2.1.0
+asyncio==3.4.3
+aiosqlite==0.17.0

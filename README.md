@@ -1,3 +1,5 @@
 # Squad-Server-Status
 
-Json > "config example.json" rename this to "config.json" and fill in the information required.
+"config example.json" rename this to "config.json" and fill in the information required.
+
+Colors can be incorrect needs further testing.
